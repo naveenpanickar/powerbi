@@ -13,4 +13,7 @@ DataModeling -
 Calculated Column/
 DX-Measure/
 Quick Measure/
-Calculated Table
+Calculated Table/
+Row Context vs Set context/
+Advanced calculations using Calculate functions/
+Time Intelligence Functions
